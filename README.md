@@ -10,7 +10,7 @@ Hello! I am a Year 11 student at Western Springs College.
 
 ## Hobbies
 - Badminton
-- Creating Content: [Youtube Channel] (https://www.youtube.com/@AYLE2024)
+- Creating Content: [Youtube Channel](https://www.youtube.com/@AYLE2024)
 - Coding
 - Singing
 
